@@ -24,7 +24,7 @@ namespace PR01_01
   {
     static void Main(string[] args)
     {
-      Person p = new Person("Tony", "Allen", 32);
+      Person p = new Person("Русаков", "Алексей", 35);
       Console.WriteLine(p);
     }
   }
